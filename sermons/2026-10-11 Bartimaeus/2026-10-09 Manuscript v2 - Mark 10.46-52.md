@@ -2,7 +2,7 @@
 
 **Sunday, October 11, 2026 · Mark series · Draft for Kyle, not final**
 
-**Length:** about 2,800 written words, roughly 26 minutes at your pace of about 110 written words a minute, before any story in movement 3. Start minutes in brackets match Anna's plan. If a movement runs past its next start minute, cut to the next movement.
+**Length:** about 2,900 written words, roughly 27 minutes at your pace of about 110 written words a minute, before any story in movement 3. Start minutes in brackets match Anna's plan. If a movement runs past its next start minute, cut to the next movement.
 
 **Your Oct 9 decisions, applied here:**
 - **Refrain:** "You can know who He is and still miss His road." It lands on Peter (movement 2), then on James and John (movement 4), then once more just before the closing cue.
