@@ -1,0 +1,12 @@
+- Look up Paul Ricoeur - Ricoeurian homiletical process - Byrd, Pentecostal Homiletic, 273, in Martin's Toward a Pentecostal Theology of Preaching
+- The Pentecostal sermon invites the listeners to experience the power and truth of the Word proclaimed. Byrd, 273
+	- For example, to preaching about healing isn't just explaining the miracles of Jesus through historical criticism, but culminates in the hearers being invited to experience the healing power of Christ who still hears today. Byrd, 273. 
+- Pentecostals are distinct from other Protestants in that they value the 'experience of their faith.' Byrd, 274. 
+  
+- God's self-disclosure - The starting point of preaching. 
+- The fulfillment of revelation, that is, the redemption that awaits us, is the goal of preaching. 
+- The objective possibility and reality of revelation is found exclusively Jesus Christ, in that God's Word became human incarnate and thus, Jesus Christ, as the eternal Word, is God's revelation. Revelation does not differ from the person of Christ nor from the reconciliation accomplished in Him. Byrd, 280
+- Scripture is the second form of the Word of God. It functions as a witness, pointing away from itself and to the personal incarnate Word, Jesus Christ. The Bible is not a static historical monument, but is written proclamation that is dynamic in its prophetic and apostolic witness to Christ.
+- The function of preaching is subordinate to the incarnate and written Word. 
+- Preaching is an event. The kerygmatic event, in which God speaks through human medium. 
+- Preaching is human speech about God, Byrd, 281

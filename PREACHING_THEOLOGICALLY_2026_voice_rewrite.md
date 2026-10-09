@@ -4,7 +4,6 @@
 
 ### 2026 Voice Rewrite
 
-Editorial note: This is a non-destructive voice rewrite of the dissertation's main body. It preserves the argument, chapter movement, research design, and major evidence while recasting the prose in the tighter, more direct academic voice of the Revelation 12 paper. It does not replace the original dissertation, does not update the underlying research project, and does not rebuild the citation apparatus. A final academic version would need footnote cleanup, table verification, and source updates before public or institutional use.
 
 ## Abstract
 
