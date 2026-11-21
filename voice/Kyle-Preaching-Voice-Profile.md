@@ -1,6 +1,6 @@
 # Kyle's Preaching Voice Profile
 
-**What this is:** a description of how Kyle (Straight Creek Church of God, Pentecostal) preaches, built from the words of eight Sunday sermons. Any Claude thread drafting a sermon manuscript, outline, illustration, or altar call for Kyle should read this first and write to match it. Kyle can read it too, as a mirror of his own habits.
+**What this is:** a description of how Kyle (Straight Creek Church of God, Pentecostal) preaches, built from the words of eight Sunday sermons. Any AI tool drafting a sermon manuscript, outline, illustration, or altar call for Kyle should read this first and write to match it. Kyle can read it too, as a mirror of his own habits.
 
 **Built from (updated October 2026):**
 
@@ -17,7 +17,7 @@
 
 \*The Easter transcript ends without an altar call or closing prayer, so it may be cut off. Counts below treat those parts as "not seen," not "not done."
 
-Source transcripts: `/mnt/project-files/voice/transcripts/`
+Source transcripts: `voice/transcripts/current/` (older transcripts in `voice/transcripts/archive/` are for longitudinal comparison only, not style reference)
 
 **How sure is each pattern?** Each pattern is tagged with how many of the eight sermons show it:
 - **[7/8] or [8/8]:** a firm habit. Use it.
@@ -256,11 +256,12 @@ Honest observations, offered to help Kyle grow and so drafts don't amplify them:
 
 ---
 
-## 10. Checklist for a Claude thread drafting in Kyle's voice
+## 10. Checklist for drafting in Kyle's voice
 
 - [ ] Open by placing the sermon in the series (last week, what's next, or why this week is a break)
-- [ ] KJV for the opening reading, NIV for body quotes (unless Kyle says otherwise); title right before a short pulpit prayer in his words (section 7)
-- [ ] Open with one vivid true story (names, dates, numbers) that comes back at the end with a twist
+- [ ] Fixed opening order: congregation stands -> opening reading in KJV -> title & short pulpit prayer (section 7) -> congregation sits -> hook / intro story
+- [ ] NIV for every body Scripture quotation (unless Kyle says otherwise), verified against the actual text
+- [ ] Open the body (after sitting) with one vivid true story (names, dates, numbers) that comes back at the end with a twist
 - [ ] Retell the passage as a scene, verse by verse, citing verses aloud, with imagined dialogue
 - [ ] One contrast frames the sermon; turn it into a refrain and repeat it 3 to 5 times
 - [ ] At least one whole-Bible pattern and one "same word, same author" link
@@ -271,10 +272,10 @@ Honest observations, offered to help Kyle grow and so drafts don't amplify them:
 - [ ] Be honest about unanswered prayer or lingering pain where the text touches it
 - [ ] Light, self-aware humor; warm direct address ("church," "folks")
 - [ ] Culture references brief, framed as "the spirit behind it"; leave specifics to Kyle
-- [ ] "If you'll stand with me, I'm closing" → altar open → two or three invited groups → a response shaped by the sermon's image
+- [ ] "If you'll stand with me, I'm closing" -> altar open -> two or three invited groups -> a response shaped by the sermon's image
 - [ ] Closing prayer that reuses the sermon's images
 - [ ] Standard grammar on the page; keep the warmth and regional words; don't fake dialect
-- [ ] Target ~40 minutes (~4,500 to 5,500 written words); exact, checked Scripture references
+- [ ] Target ~40 minutes (~4,400 to 5,000 written words at 110 wpm); exact, checked Scripture references
 
 ---
 
@@ -282,10 +283,10 @@ Honest observations, offered to help Kyle grow and so drafts don't amplify them:
 
 1. **He preaches the story, in series.** Kyle walks through whole books, opening each week by placing it in the series and retelling the passage as a vivid scene with imagined dialogue.
 2. **One contrast, one refrain, a few unforgettable lines.** "The loud kingdom boasts while the quiet kingdom prays." "Peace is not the absence of chains, but the presence of prayer."
-3. **A true story opens the door and closes it.** D-Day, the Hatfields and McCoys, Bletchley Park, the Chilean miners, Tolkien's palantír. In the newer sermons, the opener returns at the end with a twist.
+3. **A true story opens the door and closes it.** D-Day, the Hatfields and McCoys, Bletchley Park, the Chilean miners, Tolkien's palantír. In the newer sermons, the hook (after prayer and sitting) returns at the end with a twist.
 4. **Study made plain, in an Appalachian voice.** Greek words, Josephus and whole-Bible patterns sit right next to "church," "y'all," Rhoda leaving Peter at the door, and Michigan football.
 5. **Every sermon lands at an open altar for real people.** Concrete burdens named, honesty about prayers that weren't answered the way we hoped, and an invitation shaped by that sermon's image.
 
 ---
 
-*Built from 8 sermons (October 2026; the Mark 9 sermon added October 4). Add more transcripts to `/mnt/project-files/voice/transcripts/` and update the [x/8] tags.*
+*Built from 8 sermons (October 2026; the Mark 9 sermon added October 4). Add current transcripts to `voice/transcripts/current/` and update the `[x/N]` tags. Move older transcripts to `voice/transcripts/archive/` for comparison only.*

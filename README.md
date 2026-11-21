@@ -1,15 +1,17 @@
 # preaching
 
-Kyle Morrow's preaching workspace. It helps me research, study, develop, and organize sermons, and it holds my study of the calling and homiletical craft of preaching.
+Kyle Morrow's preaching workspace. It holds sermon research, manuscripts, homiletics study, voice analysis, printable pulpit tools, and long-form preaching projects.
 
-## What's here
+## Repository map
 
-- **Past sermons:** manuscripts and PDFs from sermons I have preached (Acts, Revelation, Palm Sunday, and others).
-- **Study of preaching:** notes on what a sermon does, the inductive template, my homiletic feedback toolkit, and an analysis of my preaching style.
-- **Dissertation work:** *Preaching Theologically*, my D.Min. project on Pentecostal preaching and congregational spiritual health, with a 2026 voice rewrite and a repurposing report.
-- **About me:** `about-me.md`, who I am and how I want AI tools to work with me.
-- **Voice profile:** `voice/Kyle Preaching Voice Profile.md`, how I actually preach, drawn from my sermon transcripts.
-
-## Working with Claude
-
-`CLAUDE.md` is the instruction sheet Claude reads before working here. It holds my standing rules (KJV for the opening reading and NIV in the body, the fixed opening order, the brief as the source of truth) and where new sermon work goes. Update it when a rule changes.
+- **[`AGENTS.md`](AGENTS.md)**: The single rules file for every AI tool working here (Hermes Agent, Muse Code, Grok Build, Codex, Antigravity, and chat assistants). Update it whenever a standing rule changes.
+- **[`about-me.md`](about-me.md)**: Who Kyle is, how he works, his theological framework, and his voice rules.
+- **`sermons/`**: Active sermon folders (`sermons/YYYY-MM-DD-short-title/`) and archived past sermons in Markdown (`sermons/archive/`, with original PDFs preserved in `sermons/archive/pdfs/`).
+- **`voice/`**: Current preaching voice profile (`voice/Kyle-Preaching-Voice-Profile.md`), `voice/transcripts/current/` (active baseline for voice calibration), and `voice/transcripts/archive/` (older transcripts kept strictly for historical comparison, not as a style target).
+- **`craft/`**: Homiletics study notes (`What-Does-The-Sermon-Do.md`), the 5-stage inductive template (`Inductive-Plot-Template.md`), and the Gritty Narrative feedback rubric (`Homiletic-Feedback-Toolkit.md`).
+- **`templates/`**: Ready-to-copy templates for a new sermon (`PROJECT_BRIEF.md`, `SERMON_OUTLINE.md`, `SCRIPTURE_SHEET.md`, and `POST_SUNDAY_REVIEW.md`).
+- **`library/`**: Cross-sermon memory (`SERMON_INDEX.md` and `ILLUSTRATIONS.md`) to track series callbacks and avoid repeating stories unintentionally.
+- **`projects/`**: Long-form projects kept separate from weekly sermon prep, including the D.Min. dissertation rewrite and repurposing report in `projects/preaching-theologically/`.
+- **`scripts/`**: Pre-pulpit utilities:
+  - `scripts/check_draft.py`: Checks word count, estimated pulpit runtime at 110 manuscript words/minute, banned AI words, em dashes, backpedal phrasing, and Scripture citations.
+  - `scripts/make_scripture_sheet.py`: Generates a clean, large-print printable pulpit Scripture sheet with the opening reading in **KJV** and body references in **NIV** in exact sermon order.
