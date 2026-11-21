@@ -57,19 +57,21 @@ Run these from the repository root before finalizing a sermon:
 
 | Path | What goes in it |
 |---|---|
-| `sermons/YYYY-MM-DD-short-title/` | Active and recent sermons: `PROJECT_BRIEF.md`, study notes, outline, manuscript, `scripture-refs.md`, printable HTML sheet, delivered transcript, and post-Sunday review |
-| `sermons/archive/` | Past sermon manuscripts in Markdown (original PDFs preserved in `sermons/archive/pdfs/`) |
-| `voice/` | Current voice profile (`Kyle-Preaching-Voice-Profile.md`), `transcripts/current/`, `transcripts/archive/` (comparison only), and `archive/` |
+| `sermons/YYYY-MM-DD-short-title/` | Active and recent sermons: `PROJECT_BRIEF.md`, study notes, outline, manuscript, `scripture-refs.md`, printable HTML sheet, and post-Sunday review |
+| `sermons/archive/2026-straight-creek/` | Completed 2026 Straight Creek sermon manuscripts and drafts |
+| `sermons/archive/older-or-unclear/` | Older (2024–2025) or undated sermon manuscripts converted to Markdown (comparison only; never use as current style targets; original PDFs in `sermons/archive/pdfs/`) |
+| `voice/` | Current voice profile (`Kyle-Preaching-Voice-Profile.md`), `Preaching-Diagnostic-Manuscript-vs-Transcript.md`, `transcripts/current/` (Straight Creek baseline), `transcripts/archive/` (comparison only), and `archive/` |
 | `craft/` | Homiletics notes, `Inductive-Plot-Template.md`, and `Homiletic-Feedback-Toolkit.md` |
 | `templates/` | Copy-ready starters (`PROJECT_BRIEF.md`, `SERMON_OUTLINE.md`, `SCRIPTURE_SHEET.md`, `POST_SUNDAY_REVIEW.md`) |
 | `library/` | Cross-sermon memory: `SERMON_INDEX.md` and `ILLUSTRATIONS.md` |
 | `projects/` | Long-form projects separated from weekly prep (such as `projects/preaching-theologically/`) |
 | `scripts/` | Pre-pulpit draft checker and printable Scripture sheet generator |
 
-## Boundaries and git workflow
+## Boundaries, GitHub, and Google Drive mirror
 
+- **GitHub is the canonical source of truth.** Google Drive `preaching/` is a readable 1:1 mirror refreshed from this repo, not edited independently.
 - Do not move, rename, or delete Kyle's files without his approval. Add new files instead.
-- Do not publish, send, or upload anything outside this repo without his approval.
+- Do not publish, send, or upload anything outside this repo (other than refreshing the approved Drive `preaching/` mirror when asked) without his approval.
 - Do work on a branch and open a pull request for Kyle to review. Do not push straight to `main` unless he asks.
 - At the end of a productive sermon session, leave a brief status note in that sermon's folder so the next tool or session can pick up cleanly.
 - Kyle uses multiple AI tools (Hermes, Muse Code, Grok Build, Codex, Antigravity, and web chat tools). Never assume one tool owns the whole pipeline; ask if it is unclear which tool should handle a step.
