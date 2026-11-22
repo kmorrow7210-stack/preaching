@@ -4,6 +4,7 @@ Cross-sermon memory for series continuity, intentional callbacks, and avoiding a
 
 | Date / Period | Series | Title | Primary Text | Controlling Contrast / Refrain | Key Greek / Hebrew Words | File / Status |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Mark | What Do You Worship | Mark 14:1–11 (with Mark 12:41–44) | Grumbling at worship vs. delight at betrayal / "Tell me what a room grumbles at and delights in, and I'll tell you what it worships." | *enebrimōnto*, *echarēsan* | Drive: `05_Preaching/Mark Series/Sundays/2026-11-22 What Do You Worship (Mark 14) - Preached/` |
 | 2026-10-11 | Mark | Beside the Road / What Do You Want? / On the Road *(TBD)* | Mark 10:46–52 (with Mark 8:22–26) | Recognizing Messiah vs. following on His road | *thelō*, *hypage*, *hodos*, *epitimaō* | `sermons/2026-10-11-bartimaeus/2026-10-09-prep-status-and-draft-check.md` |
 | 2026-10-04 | Mark | Authorized Not Abandoned ("Authorized but Not Alone") | Mark 9:2–29 (read 9:2–9) | Mountain vs. valley; "with him" vs. "for him" / "Listen to him." | *metamorphoō* | Profiled in `voice/Kyle-Preaching-Voice-Profile.md` |
 | 2026 | Mark | A Tale of Three Tables | Mark 6:14–8:21 | Herod's table vs. Jesus' table | *symposia*, *korasion* | Profiled in `voice/Kyle-Preaching-Voice-Profile.md` |

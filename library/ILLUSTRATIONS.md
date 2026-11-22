@@ -22,10 +22,13 @@ Tracks historical, cultural, and personal stories already preached so Kyle can a
 ## Literature, Pop Culture & Personal Wells (Watch Frequency)
 
 - **WWII stories:** Used frequently (at least 5 sermons). Strongest well, so space them out intentionally.
+- **College football:** December coaching carousel (firing window, Signing Day, transfer portal, playoffs) used for Jerusalem's Passover bind -> Mark 14:1–11 (What Do You Worship).
 - **Tolkien / *Lord of the Rings*:** Used twice (Aragorn "become who you were born to be"; Saruman's *palantír* + Palantir tech company twist in Rev 13:11–18).
 - **Personal / vulnerable stories:**
   - Deleting Substack after open rate dropped from 40%/30% to 1–4% ("I'm a pastor that writes, not a writer that pastors") -> Acts 16.
   - Receiving the Holy Ghost as a boy and going home to a hard home -> Mark 9.
   - Ministers' meeting dove-hunting joke -> Mark 9.
   - Nick Saban's dynasty growing pains -> Acts 6–7.
+  - Lee College board interview for his first youth-pastor job ("The jury's still out on that, sir") -> Mark 14:1–11 (What Do You Worship).
+  - Chattanooga worshiper out of step with the room ("Leave him alone") -> Mark 14:1–11 (What Do You Worship).
 - **Recurring biblical cross-examples:** Shadrach, Meshach, and Abednego ("but if not"); Genesis 1 chaos-sea; Babel vs. Pentecost; Herod family.
